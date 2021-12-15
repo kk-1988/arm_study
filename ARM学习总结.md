@@ -18,7 +18,7 @@
 2. 不同级别的差异：System control register
 3. 异常切换 
 4. 异常切换一用
-5. Errata
+5. 
 
 #### 异常
 1. 分成L0，L1，L2，L3四层，分别对应
