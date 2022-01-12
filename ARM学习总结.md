@@ -152,3 +152,36 @@
 1. 
 2. 
 3. 
+
+## 中断与时钟
+1. 
+2. 
+3. 中断类型
+> SGI  
+* 
+* 
+* 
+* 
+> PPI
+> SPI
+> LPI
+4. GIC编成模型
+> 状态机
+* 
+* 
+> GICC，GICR，GICD
+* 
+* 
+
+## Timer
+> 时钟源和Timer的关系
+* 
+* 
+* 
+> system level和pre-cpu timer
+* 
+* 
+* 
+> programming model
+* 
+* 
