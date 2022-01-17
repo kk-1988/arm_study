@@ -187,12 +187,19 @@
 * 
 
 ## SMP
+![smp](./SMP.png) 
 > SMP vs AMP vs HMP
 * 
 * 
-* 
+*   
+
 > 再谈coherence和maintenance
-> SCU,大小核，DynamlQ
+* Software managed coherency vs Hardware managed conherency
+* MESI vs MOESI
+* Maintenance broadcast  
+
+> SCU,大小核，DynamlQ  
+
 > 根Cluster的一致性
 > PSCI(多核电源管理)
 
