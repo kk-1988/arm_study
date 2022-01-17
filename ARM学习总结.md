@@ -187,5 +187,16 @@
 * 
 
 ## SMP
+> SMP vs AMP vs HMP
+* 
+* 
+* 
+> 再谈coherence和maintenance
+> SCU,大小核，DynamlQ
+> 根Cluster的一致性
+> PSCI(多核电源管理)
 
 ## 内存进阶
+> 
+> 
+> 
